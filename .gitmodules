@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CA3variants"]
+	path = CA3variants
+	url = https://github.com/cran/CA3variants
+[submodule "CAvariants"]
+	path = CAvariants
+	url = https://github.com/cran/CAvariants
+[submodule "MCAvariants"]
+	path = MCAvariants
+	url = https://github.com/cran/MCAvariants
